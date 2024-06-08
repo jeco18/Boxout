@@ -1,0 +1,4 @@
+export const ADMIN_API_KEY = '05c28Rj80erfe3Yk7F';
+export const ADMIN_SECRET_KEY = 'BC459uVHZdi1nrNKj639bSDtHyVUDHANCT6gRnrGtYHjfvfD3XlSujSTIDeQHjINQPBvHHIXcY8XyAI1WydrHats';
+export const CLIENT_API_KEY = '4DmSWtqN10fTWXzbQq';
+export const CLIENT_SECRET_KEY = 'g6jkOmVnCLS9emZ2cSDIok7juqhx60gEd4awAxLMh2r4lLSUkwty53E5AbU4HL2rUwFca8eXAstzHGaExGNBlmAU';
